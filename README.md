@@ -10,6 +10,12 @@ https://xenabrowser.net/datapages/?cohort=TARGET%20Pan-Cancer%20(PANCAN)
 
 # Running
 
+Copy the .tsv file containing the Expression into the working folder. 
+Launch the Python script to parse the .tsv file and generate the .sql by doing
+```
+python tsvconvert.py 
+```
+
 Download the reference:
 
     make download
