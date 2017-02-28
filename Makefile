@@ -1,3 +1,21 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @tommasobonato
+ Sign out
+ Unwatch 5
+  Unstar 2
+ Fork 1 rcurrie/ga4gh
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathga4gh/Makefile
+2790edc  on 24 Jan
+@rcurrie rcurrie Add notes on various related issues and some references
+1 contributor
+RawBlameHistory    
+57 lines (47 sloc)  2.21 KB
 clean:
 	mkdir -p data
 	rm -f data/*.db
@@ -54,3 +72,5 @@ uninstall:
 list:
 	# List all the objects in the server
 	ga4gh_repo list /data/registry.db
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help

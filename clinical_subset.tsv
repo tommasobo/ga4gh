@@ -1,0 +1,11 @@
+id	Disease	Gender	Anatomical_location	Sample_type	Dataset	Stage_all_cancers	Grade_all_cancers	Age_at_dx	Histology_all_cancers	Subcategory
+ckcc_reference/TCGA-MP-A4T4-01	lung adenocarcinoma	female	lung	primary tumor	TCGA	Stage IIB		68.0	Adenocarcinoma	
+ckcc_reference/TCGA-KK-A8IG-01	prostate adenocarcinoma	male	prostate	primary tumor	TCGA			55.0	Adenocarcinoma Acinar Type	
+ckcc_reference/TCGA-A8-A09Z-01	breast invasive carcinoma	female	breast	primary tumor	TCGA	Stage IIB		83.0		
+ckcc_reference/TCGA-DD-AAW1-01	liver hepatocellular carcinoma	male	liver	primary tumor	TCGA	Stage IIIA	G2	55.0	Hepatocellular Carcinoma	
+ckcc_reference/TCGA-YL-A8SB-01	prostate adenocarcinoma	male	prostate	primary tumor	TCGA			62.0	Adenocarcinoma Acinar Type	
+ckcc_reference/TCGA-HC-7817-01	prostate adenocarcinoma	male	prostate	primary tumor	TCGA			52.0	Adenocarcinoma Acinar Type	
+ckcc_reference/TCGA-06-0649-01	glioblastoma multiforme	female	brain	primary tumor	TCGA			73.0	NON G-CIMPNeuralUntreated primaryNeural	
+ckcc_reference/TCGA-C5-A1BE-01	cervical & endocervical cancer	female	cervix	primary tumor	TCGA		G2	64.0	Cervical Squamous Cell Carcinoma	
+ckcc_reference/TARGET-21-PATISD-09					TARGET					
+ckcc_reference/TCGA-K4-A5RH-01	bladder urothelial carcinoma	male	bladder	primary tumor	TCGA	Stage III	High Grade		Non-Papillary	
